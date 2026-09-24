@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - horror
 directors_cut: https://basicer.github.io/js13k26/?debug
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
